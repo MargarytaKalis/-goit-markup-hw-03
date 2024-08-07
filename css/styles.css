@@ -132,6 +132,9 @@ color: #404bbf;
     background-color: #2e2f42;;
 }
 
+.hero {
+    padding: 188px 0;
+}
 
 .title {
 
@@ -140,6 +143,9 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+margin: 0 auto;
+margin-bottom: 48px;
+max-width: 496px;
 }
 
 .hero-button {
@@ -150,7 +156,13 @@ color: #fff;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-     font-weight: 500
+     font-weight: 500;
+     margin: 0 auto;
+    border-radius: 4px;
+        padding: 16px 32px;
+        border: none;
+        display: block;
+    
     
 }
 
